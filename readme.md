@@ -1,0 +1,1 @@
+List of all iOS URL schemes known to work. 
